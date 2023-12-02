@@ -1,4 +1,3 @@
-
 - 👋 Hi, I’m almond!
 
 - 👀 I’m a computer science student at Grinnell College
