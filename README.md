@@ -1,9 +1,8 @@
-- 👋 Hi, I’m almond!
+Hi, my name is almond!
 
-- 👀 I’m a computer science student at Grinnell College
+I am:
+- a CS student at Grinnell College
+- an aspiring sysadmin with a passion for peer education
+- never quite sure what's going on
 
-- 🌱 I’m also interested in system administration and peer education!
-
-- 💞️ I’m looking to collaborate on any interesting programing language or operating system projects :)
-
-- 📫 Reach me at almond@almendra.dev
+If you are curious about anything I do or just want to reach out, don't hesitate! [contact@almendra.dev](mailto:contact@almendra.dev)
