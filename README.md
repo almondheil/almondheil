@@ -7,4 +7,4 @@ I am:
 
 If you are curious about anything I do or just want to reach out, don't hesitate! [contact@almendra.dev](mailto:contact@almendra.dev)
 
-Or see below for the repos I'm most proud of :)
+Or see below (or apparently above on mobile) for the repos I'm most proud of :)
